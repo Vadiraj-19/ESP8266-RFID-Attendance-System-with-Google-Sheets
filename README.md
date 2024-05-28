@@ -16,4 +16,4 @@ capabilities, the system becomes capable of capturing attendance data in real-ti
 - Jumper Wires
 ## Circuit Connection Diagram
 
-<img width="488" alt="PowerPoint Slide Show  -  Presentation1 pptx 5_3_2024 12_29_08 PM" src="https://github.com/ppattanaik/VSD_SquadronMini_Internship/assets/63561037/6cdc1f19-5207-4302-b635-bcbcdc442ea8">
+<img width="488" alt="PowerPoint Slide Show  -  Presentation1 pptx 5_3_2024 12_29_08 PM" src="https://github.com/Vadiraj-19/ESP8266-RFID-Attendance-System-with-Google-Sheets/blob/main/Screenshot%202024-05-28%20220646.png">
