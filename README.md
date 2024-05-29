@@ -9,10 +9,8 @@ capabilities, the system becomes capable of capturing attendance data in real-ti
 ## Components Required
 - NODEMCU ESP8266 board
 - RC522 RFID Reader
-- 16x2 I2c LCD Display
+- Vsd Squadron mini
 - RFID Tags
-- Buzzer
-- BreadBoard
 - Jumper Wires
 ## Circuit Connection Diagram
 
