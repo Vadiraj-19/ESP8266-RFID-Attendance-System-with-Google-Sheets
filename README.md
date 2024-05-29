@@ -17,9 +17,11 @@ capabilities, the system becomes capable of capturing attendance data in real-ti
 <img width="888" alt="PowerPoint Slide Show  -  Presentation1 pptx 5_3_2024 12_29_08 PM" src="vsdsqudron.png">
 
 ###   PIN CONFIGURATION
+## RFID PIN CONFIGURATION
+
 | RFID  | VSD Squadron Mini |
 | ------------- | ------------- |
-| 3.3V |3.3V|
+|      3.3V     |    3.3V       |
 | RESET |PD2|
 |  GND    |GND|
 |  IRQ   | -|
@@ -28,15 +30,22 @@ capabilities, the system becomes capable of capturing attendance data in real-ti
 |  SCK    |PC5|
 |   SS     |PC0|
 
+##  ESP8266 PIN CONFIGURATION
 
-| Gear Motor  | Motor Driver Module | VSD Squadron Mini |
-| ------------- | ------------- |------------- |
-| - | Control pin 1 |PD4 |
-| - | Control pin 2 |PD6 |
-| VCC  | OUT1 | - |
-| GND | OUT2 | - |
+| ESP8266 | VSD Squadron Mini |
+| ------------- | ------------- |
+|     GND     |    GND        |
+|GPIO2 |-|
+| GPIO0  |-|
+| RXD   | PD2|
+| TXD  |PD6|
+| CH_PD |-|
+|  RESET   |-|
+|  VCC     |3.3V|
 
-|  External Power Supply | Motor Driver Module | VSD Squadron Mini |
-| ------------- | ------------- |------------- |
-| 6V | VCC | - |
-| GND | GND | GND |
+
+
+
+
+
+
