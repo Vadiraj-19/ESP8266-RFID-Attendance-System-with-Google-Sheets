@@ -15,3 +15,28 @@ capabilities, the system becomes capable of capturing attendance data in real-ti
 ## Circuit Connection Diagram
 
 <img width="888" alt="PowerPoint Slide Show  -  Presentation1 pptx 5_3_2024 12_29_08 PM" src="vsdsqudron.png">
+
+###   PIN CONFIGURATION
+| HC-SR04 Ultrasonic Sensor | VSD Squadron Mini |
+| ------------- | ------------- |
+| 3.3V |
+|RESET |
+|GND    |
+|IRQ   | 
+|MISO   |
+|MOSI  |
+|SCK    |
+|SS     |
+
+
+| Gear Motor  | Motor Driver Module | VSD Squadron Mini |
+| ------------- | ------------- |------------- |
+| - | Control pin 1 |PD4 |
+| - | Control pin 2 |PD6 |
+| VCC  | OUT1 | - |
+| GND | OUT2 | - |
+
+|  External Power Supply | Motor Driver Module | VSD Squadron Mini |
+| ------------- | ------------- |------------- |
+| 6V | VCC | - |
+| GND | GND | GND |
