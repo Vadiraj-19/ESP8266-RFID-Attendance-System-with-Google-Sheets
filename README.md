@@ -16,8 +16,8 @@ capabilities, the system becomes capable of capturing attendance data in real-ti
 
 <img width="888" alt="PowerPoint Slide Show  -  Presentation1 pptx 5_3_2024 12_29_08 PM" src="vsdsqudron.png">
 
-###   PIN CONFIGURATION
-## RFID PIN CONFIGURATION
+##   PIN CONFIGURATION
+### RFID PIN CONFIGURATION
 
 | RFID  | VSD Squadron Mini |
 | ------------- | ------------- |
@@ -30,7 +30,7 @@ capabilities, the system becomes capable of capturing attendance data in real-ti
 |  SCK    |PC5|
 |   SS     |PC0|
 
-##  ESP8266 PIN CONFIGURATION
+###  ESP8266 PIN CONFIGURATION
 
 | ESP8266 | VSD Squadron Mini |
 | ------------- | ------------- |
