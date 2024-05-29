@@ -17,16 +17,16 @@ capabilities, the system becomes capable of capturing attendance data in real-ti
 <img width="888" alt="PowerPoint Slide Show  -  Presentation1 pptx 5_3_2024 12_29_08 PM" src="vsdsqudron.png">
 
 ###   PIN CONFIGURATION
-| HC-SR04 Ultrasonic Sensor | VSD Squadron Mini |
+| RFID  | VSD Squadron Mini |
 | ------------- | ------------- |
-| 3.3V |
-|RESET |
-|GND    |
-|IRQ   | 
-|MISO   |
-|MOSI  |
-|SCK    |
-|SS     |
+| 3.3V |3.3V|
+| RESET |PD2|
+|  GND    |GND|
+|  IRQ   | -|
+|  MISO   |PC7|
+|  MOSI  |PC6|
+|  SCK    |PC5|
+|   SS     |PC0|
 
 
 | Gear Motor  | Motor Driver Module | VSD Squadron Mini |
