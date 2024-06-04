@@ -44,7 +44,7 @@ capabilities, the system becomes capable of capturing attendance data in real-ti
 |  VCC     |3.3V|
 
 ## Demo Video
-https://github.com/Vadiraj-19/ESP8266-RFID-Attendance-System-with-Google-Sheets/assets/143392997/b07f59f5-98cd-40ea-9ca7-982ed835eb8b
+
 
 
 
